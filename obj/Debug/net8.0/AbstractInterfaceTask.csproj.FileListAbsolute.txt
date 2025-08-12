@@ -1,0 +1,15 @@
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\bin\Debug\net8.0\AbstractInterfaceTask.exe
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\bin\Debug\net8.0\AbstractInterfaceTask.deps.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\bin\Debug\net8.0\AbstractInterfaceTask.runtimeconfig.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\bin\Debug\net8.0\AbstractInterfaceTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\bin\Debug\net8.0\AbstractInterfaceTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\obj\Debug\net8.0\AbstractInterfaceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\obj\Debug\net8.0\AbstractInterfaceTask.AssemblyInfoInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\obj\Debug\net8.0\AbstractInterfaceTask.AssemblyInfo.cs
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\obj\Debug\net8.0\AbstractInterfaceTask.csproj.CoreCompileInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\obj\Debug\net8.0\AbstractInterfaceTask.sourcelink.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\obj\Debug\net8.0\AbstractInterfaceTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\obj\Debug\net8.0\refint\AbstractInterfaceTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\obj\Debug\net8.0\AbstractInterfaceTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\obj\Debug\net8.0\AbstractInterfaceTask.genruntimeconfig.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\AbstractInterfaceTask\obj\Debug\net8.0\ref\AbstractInterfaceTask.dll
